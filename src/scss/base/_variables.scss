@@ -1,0 +1,31 @@
+@import url('https://fonts.googleapis.com/css2?family=Poppins:wght@400;500;600;700;900&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Tiro+Devanagari+Hindi:ital@0;1&display=swap');
+// Fuentes
+$fuente_principal: 'Poppins', sans-serif;
+$fuente_titulo: 'Tiro Devanagari Hindi', serif;
+
+// Tamaño de Media Queries
+$telefono: 480px;
+$tablet: 769px;
+$laptop: 1280px;
+$desktop: 1024px;
+$desktopXL: 2048px;
+
+
+// Colores
+$blanco: #fff;
+$negro: #000;
+$fondoDark: #181A1B;
+$grisLetra: #E8E6E3;
+$morado: #490086;
+$fondo2: #F2F2F2;
+
+/*===== Separaciones =====*/
+$separacion: 5rem;
+
+// Fuentes
+
+$delgada: 300;
+$regular: 400;
+$bold: 700;
+$black: 900
